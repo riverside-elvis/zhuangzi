@@ -1,0 +1,15 @@
+---
+title:
+- type: main
+  text: Zhuangzi
+- type: abstract
+  text: A mashup of the _Xu Guyi congshu_ base text and Burton Watson's translation.
+creator:
+- role: author
+  text: Zhuangzi
+- role: publisher
+  text: Zhang Yuanji
+- role: translator
+  text: Burton Watson
+rights: © 2013 Columbia University Press
+...
